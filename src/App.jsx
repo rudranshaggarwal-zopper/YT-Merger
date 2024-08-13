@@ -76,6 +76,7 @@ function App() {
   return (
     <>
       <h2>React Google Login</h2>
+      <h1>App is sent for verification : On 13 August, 2024</h1>
       <br />
       <br />
       {profile ? (
