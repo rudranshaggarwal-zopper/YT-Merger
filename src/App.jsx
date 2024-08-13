@@ -66,8 +66,6 @@ function App() {
     }
   }, [user]);
 
-  
-
   const logOut = () => {
     googleLogout();
     setProfile(null);
